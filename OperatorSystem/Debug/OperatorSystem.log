@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\workspace\cpp\operatorsystem\operatorsystem\source.cpp(63): warning C4715: 'Queue<ThreadInfo>::pop': not all control paths return a value
+  OperatorSystem.vcxproj -> E:\WorkSpace\Cpp\OperatorSystem\Debug\OperatorSystem.exe
+  OperatorSystem.vcxproj -> E:\WorkSpace\Cpp\OperatorSystem\Debug\OperatorSystem.pdb (Full PDB)
